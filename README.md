@@ -1,23 +1,13 @@
-## Hi! Welcome to my Github!
-
-My name is Alexander and I am Fullstack engineer by day, web3 enthusiast by night.  
-
-Want to get in touch? [email me](mailto:alexander@baadev.com) or message me on [telegram](https://t.me/baadev).  
-Other socials you can find on my website: [baadev.com](https://baadev.com/)
-
-<img src="https://myreadme.vercel.app/api/embed/baadev?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
-
-<!--
-**baadev/baadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> Hi! Welcome to my Github! </h1>
+<p align="center">
+My name is Alexander and I am Fullstack engineer by day, web3 enthusiast by night. 
+</p>
+<br>
+<p align="center">
+Want to get in touch?
+  <a target="_blank" href="mailto: alexander@baadev.com">email me</a> or message me on <a target="_blank" href="https://t.me/baadev">telegram</a>
+</p>
+<br>
+<p align="center">
+  <img src="https://myreadme.vercel.app/api/embed/baadev?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
+</p>
