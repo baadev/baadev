@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! Welcome to my Github!
+
+My name is Alexander and I am Fullstack engineer by day, web3 enthusiast by night.  
+
+Want to get in touch? [email me](mailto:alexander@baadev.com) or message me on [telegram](https://t.me/baadev).  
+Other socials you can find on my website: [baadev.com](https://baadev.com/)
+
+<img src="https://myreadme.vercel.app/api/embed/baadev?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 
 <!--
 **baadev/baadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
