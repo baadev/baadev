@@ -9,5 +9,5 @@ Want to get in touch?
 </p>
 <br>
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/baadev?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
+  <img src="https://myreadme.vercel.app/api/embed/baadev?panels=userstatistics,toprepositories,toplanguages" />
 </p>
