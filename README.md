@@ -7,7 +7,3 @@ My name is Alexander and I am Fullstack engineer by day, web3 enthusiast by nigh
 Want to get in touch?
   <a target="_blank" href="mailto: alexander@baadev.com">email me</a> or message me on <a target="_blank" href="https://t.me/baadev">telegram</a>
 </p>
-<br>
-<p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/baadev?panels=userstatistics,toprepositories,toplanguages" />
-</p>
