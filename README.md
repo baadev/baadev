@@ -14,6 +14,7 @@ Want to get in touch?
 A classic Minesweeper game implementation for Telegram. Reveal every safe square without clicking on a mine! Challenge yourself with this timeless puzzle game directly in your Telegram chat.
 
 - **Platform**: Telegram Bot
+- **Stack**: Next.js, TypeScript, MongoDB, [Telegraf](https://github.com/telegraf/telegraf), [telegram-web-app.js](https://telegram.org/js/telegram-web-app.js?57)
 - **Features**: Server-side game logic ensuring security and fairness between players, tournaments with prize distribution, leaderboards and many more
 - **Game**: [@MSweeper_Bot](https://t.me/MSweeper_Bot)
 - **Channel**: [@SweeperNews](https://t.me/SweeperNews)
