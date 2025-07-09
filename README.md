@@ -7,3 +7,13 @@ My name is Alexander and I am Fullstack engineer by day, web3 enthusiast by nigh
 Want to get in touch?
   <a target="_blank" href="mailto: alexander@baadev.com">email me</a> or message me on <a target="_blank" href="https://t.me/baadev">telegram</a>
 </p>
+
+## 🚀 Projects
+
+### [Minesweeper Game](https://t.me/MSweeper_Bot)
+A classic Minesweeper game implementation for Telegram. Reveal every safe square without clicking on a mine! Challenge yourself with this timeless puzzle game directly in your Telegram chat.
+
+- **Platform**: Telegram Bot
+- **Features**: Server-side game logic ensuring security and fairness between players, tournaments with prize distribution, leaderboards and many more
+- **Game**: [@MSweeper_Bot](https://t.me/MSweeper_Bot)
+- **Channel**: [@SweeperNews](https://t.me/SweeperNews)
