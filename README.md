@@ -10,6 +10,15 @@ Want to get in touch?
 
 ## 🚀 Projects
 
+### [Prompt Smith - Nano Banana](https://t.me/PromptSmithAiBot)
+Handy Telegram bot that generates high-quality AI images, with presets and many settings on board.
+
+- **Platform**: Telegram Bot
+- **Stack**: Express, MongoDB, [Telegraf](https://github.com/telegraf/telegraf), google/genai
+- **Features**: Batch mode, Presets with accordingly adjusted Top-P and Temperature values
+- **Project**: [@PromptSmithAiBot](https://t.me/PromptSmithAiBot)
+- **Channel**: [@StrongPrompts](https://t.me/StrongPrompts)
+
 ### [Minesweeper Game](https://t.me/MSweeper_Bot)
 A classic Minesweeper game implementation for Telegram. Reveal every safe square without clicking on a mine! Challenge yourself with this timeless puzzle game directly in your Telegram chat.
 
