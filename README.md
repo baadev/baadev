@@ -10,13 +10,13 @@ Want to get in touch?
 
 ## 🚀 Projects
 
-### [Prompt Smith - Nano Banana](https://t.me/PromptSmithAiBot)
+### [Prompt Smith - Nano Banana](https://t.me/PromptSmithAiBot?start=campaign_Qp7kgaQFQSiJ8BpM)
 Handy Telegram bot that generates high-quality AI images, with presets and many settings on board.
 
 - **Platform**: Telegram Bot
 - **Stack**: Express, MongoDB, [Telegraf](https://github.com/telegraf/telegraf), google/genai
 - **Features**: Batch mode, Presets with accordingly adjusted Top-P and Temperature values
-- **Project**: [@PromptSmithAiBot](https://t.me/PromptSmithAiBot)
+- **Project**: [@PromptSmithAiBot](https://t.me/PromptSmithAiBot?start=campaign_Qp7kgaQFQSiJ8BpM)
 - **Channel**: [@StrongPrompts](https://t.me/StrongPrompts)
 
 ### [Minesweeper Game](https://t.me/MSweeper_Bot)
