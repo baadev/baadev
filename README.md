@@ -10,7 +10,7 @@ Want to get in touch?
 
 ## 🚀 Projects
 
-### [Prompt Smith - Nano Banana](https://t.me/PromptSmithAiBot?start=campaign_Qp7kgaQFQSiJ8BpM) [1k+ MAU]
+### [BANAN Bot](https://t.me/PromptSmithAiBot?start=campaign_Qp7kgaQFQSiJ8BpM) [1k+ MAU]
 Handy Telegram bot that generates high-end quality AI images, with presets and many settings on board.
 
 - **Platform**: Telegram Bot
