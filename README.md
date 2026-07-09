@@ -2,7 +2,7 @@
 
 <p align="center">
 Fullstack engineer by day, web3 enthusiast by night.<br>
-I build AI products, Telegram apps and things that ship.
+I build AI products, handy tools  and things that ship.
 </p>
 
 <p align="center">
@@ -12,7 +12,28 @@ I build AI products, Telegram apps and things that ship.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Open Source
+
+### 👁️ [Vidette](https://github.com/baadev/vidette) — Self-hosted AI Video Security
+
+> Video security that understands intent — not just motion. A universal NVR core with a tiered AI cascade (motion → detection → trajectories → VLM) and alert policies written in plain language.
+
+Any RTSP/ONVIF camera works out of the box. One `docker compose up` gets you codec-copy recording, a sub-second WebRTC live wall, a timeline that scrubs like a video editor — and events delivered via Telegram, signed webhooks, web push or MQTT with Home Assistant discovery. Fully local, sized for an N100 mini-PC: no cloud, no subscriptions, your footage stays yours.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant">
+</p>
+
+⭐ **Repo:** [baadev/vidette](https://github.com/baadev/vidette) &nbsp;·&nbsp; 📦 **Image:** [ghcr.io/baadev/vidette](https://github.com/baadev/vidette/pkgs/container/vidette)
+
+---
+
+## 🚀 Products
 
 ### 🍌 [banan.wtf](https://banan.wtf/?utm_source=github&utm_medium=readme&utm_campaign=profile) — AI Studio
 
@@ -60,3 +81,9 @@ Server-side game logic for fairness, tournaments with prize distribution, leader
 </p>
 
 🎮 **Play:** [@MSweeper_Bot](https://t.me/MSweeper_Bot) &nbsp;·&nbsp; 📣 **News:** [@SweeperNews](https://t.me/SweeperNews)
+
+---
+
+<p align="center">
+  <i>Got an idea or feedback? Ping me on <a href="https://t.me/baadev">Telegram</a> — I actually reply.</i>
+</p>
